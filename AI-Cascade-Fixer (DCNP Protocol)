@@ -1,0 +1,49 @@
+AI-Cascade-Fixer (DCNP Protocol)
+The Dynamic Constraint Navigation Protocol: Solving AI "Complexity Death Spirals"
+1. The Problem: Why Your AI Agent Fails
+When AI Agents handle complex tasks, they often suffer from Cascading Failure. Instead of solving the goal, the AI:
+
+Gets stuck in "Repair Loops": Choosing a complex method (like writing a script), failing, and spending hours fixing the script instead of solving the original problem.
+
+Loses the "Root Goal": It treats the method as the goal, forgetting the most direct path to the result.
+
+Sunk Cost Obsession: It refuses to backtrack, pouring tokens and logic into a failing strategy.
+
+2. The Solution: DCNP Protocol (v1.0)
+This repository provides a logical "Circuit Breaker" for AI Agents. It forces the AI to apply Economic Rationality and Occam’s Razor to its own thought process.
+
+The "Master Instruction" (Copy & Paste to your AI)
+[ACTIVATE DCNP PROTOCOL V1.0]
+
+Goal Alignment Audit: Stop all current operations. Compare your current "path" with the "Root Goal." Is this the most direct path, or have you added unnecessary complexity?
+
+Apply Occam’s Razor: If the current method has required more than 2 failed attempts or "bug fixes," you are FORBIDDEN from continuing this path.
+
+Economic Backtrack: Abandon the current complex strategy. Revert to the last "verified stable" step.
+
+Simplification Mandate: Find an alternative path that avoids the current bottleneck entirely (e.g., manual processing over automation, direct answering over coding).
+
+Blueprint Output: Before proceeding, output:
+
+Root Goal: [Identify the original objective]
+
+Current Pivot: [The new, simplest action to be taken]
+
+3. How it Works (The Logic)
+This protocol solves the 9 Root Causes of AI Collapse by enforcing three operational constraints:
+
+Opportunity Cost Monitoring: It forces the AI to evaluate if "fighting the difficulty" is more expensive than "switching the path."
+
+Sunk Cost Termination: It provides a hard "stop-loss" (2-attempt limit) to prevent the AI from falling into a "Means-Ends Displacement" trap.
+
+Logic Sandboxing: By forcing a "Backtrack," it prevents local errors from cascading into a total system failure.
+
+4. When to Use This
+When your AI starts writing 100 lines of code for a 5-minute data task.
+
+When the AI keeps apologizing for errors but continues making the same logical mistakes.
+
+When the task objective seems simple, but the conversation is getting increasingly confusing.
+
+5. Manifesto
+"True intelligence is not solving a complex problem with a complex solution; it is the wisdom to abandon a failing path in favor of a simpler truth."
